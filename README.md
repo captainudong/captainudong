@@ -1,11 +1,11 @@
 ### Languages and Tools 🛠️
-Python, PyTorch, BigQuery, Looker Studio, GA, Firebase, Java, Kotlin, Android Studio, Linux, AWS, GCP, Git
+Python, PyTorch, Java, Kotlin, Android Studio, Linux, AWS, GCP, Git
 
 ### Work experience 👔
 | Job Position                  | Company                    | Work Period       |
 | ----------------------------- | -------------------------- | ----------------- |
 | **CTO**                       | **더슬립팩토리**            | **2023-06 — now** |
-| CEO                           | 리디파이                    | 2021-06 — now     |
+| CEO                           | 리디파이                    | 2021-06 — 2025-04 |
 | CTO                           | 리스펙                      | 2018-03 — 2021-04 |
 
 ### Education 🎓
